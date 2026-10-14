@@ -5,3 +5,5 @@ Public research reports and work samples from [Patterson Research](https://patte
 | Date | Report | Status |
 | --- | --- | --- |
 | 2026-10-14 | [HBM constraints survive. The equity thesis remains unresolved.](cambrian-hbm-2026-10-14/report.md) | AI-assisted review draft; no investment recommendation |
+
+[Download the HBM report as a PDF](cambrian-hbm-2026-10-14/report.pdf?raw=true).

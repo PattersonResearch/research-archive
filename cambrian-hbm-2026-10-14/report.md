@@ -1,5 +1,7 @@
 # HBM constraints survive. The equity thesis remains unresolved.
 
+[Download PDF](report.pdf?raw=true)
+
 **An expanded Popper investigation of HBM economics, valuation and the evidence needed for an investment recommendation**
 
 Patterson Research | 14 October 2026 | Economics revision | Agent-prepared review draft
@@ -649,7 +651,7 @@ Public evidence was gathered manually through web tools and captured sources. Th
 
 A separate retained reproducibility package includes contracts, evidence and search ledgers, calculation cells, native exports and verification receipts. Source captures and the native database are archived. The public work sample contains this report and its five figures; it does not contain those private working records. Earlier reports remain intact.
 
-**Release status:** review draft for the operator. No email sent, no publication performed and no portfolio action authorized.
+**Release status:** publicly shared research work sample. Judgments remain review drafts. Publication does not approve an investment recommendation or authorize portfolio action. No email was sent as part of preparing this report.
 
 
 [MU-Q4]: https://investors.micron.com/files/doc_financials/2026/q4/Q4-26-Earnings-Deck.pdf
